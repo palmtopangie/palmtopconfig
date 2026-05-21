@@ -1,4 +1,4 @@
-# eepyconfig
+# palmtopconfig
 
 This is my personal Team Fortress 2 config built for maximum visibility, competitive integrity and legality, and stability in mind.
 
