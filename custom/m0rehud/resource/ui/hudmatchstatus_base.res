@@ -115,6 +115,7 @@
 		"Tall"										"30"
 		"Visible"									"1"
 		"Enabled"									"1"
+		"Alpha"										"255"
 	}
 	"ObjectiveStatusTimePanel"
 	{
